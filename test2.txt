@@ -1,1 +1,2 @@
+THIS IS test2.txt file
 changed
